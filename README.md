@@ -1,4 +1,4 @@
-# ACL-Part3
+# ACL Part 3
 
 When you use ACLs for traffic filtering, they can operate inbound or outbound. The direction determines at which point packets are tested against the ACL as they pass through the router.
 
